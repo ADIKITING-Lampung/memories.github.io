@@ -1,0 +1,868 @@
+Uri: https://fonts.googleapis.com/css?family=Allerta:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.7.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Gilda+Display:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Red+Hat+Text:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Questrial:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Quicksand:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lora:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Alice:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Playfair+Display:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Neuton:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Red+Hat+Display:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.7.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/alice/v20/OpNCnoEEmtHa6GcOrgs.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\alice\v20\OpNCnoEEmtHa6GcOrgs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/allerta/v18/TwMO-IAHRlkbx940YnYXTQ.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\allerta\v18\TwMO-IAHRlkbx940YnYXTQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/gildadisplay/v18/t5tmIRoYMoaYG0WEOh7HwMeR3T7Pqg.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\gildadisplay\v18\t5tmIRoYMoaYG0WEOh7HwMeR3T7Pqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/neuton/v22/UMBQrPtMoH62xUZKaK4vfQr9.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\neuton\v22\UMBQrPtMoH62xUZKaK4vfQr9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/neuton/v22/UMBQrPtMoH62xUZKAKkvfQr9.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\neuton\v22\UMBQrPtMoH62xUZKAKkvfQr9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/neuton/v22/UMBQrPtMoH62xUZKdK0vfQr9.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\neuton\v22\UMBQrPtMoH62xUZKdK0vfQr9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/neuton/v22/UMBQrPtMoH62xUZKZKovfQr9.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\neuton\v22\UMBQrPtMoH62xUZKZKovfQr9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/neuton/v22/UMBRrPtMoH62xUZCyrg4Wio.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\neuton\v22\UMBRrPtMoH62xUZCyrg4Wio.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/neuton/v22/UMBTrPtMoH62xUZCz4g_.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\neuton\v22\UMBTrPtMoH62xUZCz4g_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\poppins\v21\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/questrial/v18/QdVUSTchPBm7nuUeVf70viFg.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\questrial\v18\QdVUSTchPBm7nuUeVf70viFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58a-xw.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58a-xw.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58a-xw.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbjKWQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbjKWQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6WQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6WQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbsWRQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbsWRQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbuyRQk8z_Q.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbuyRQk8z_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVfQwD-l-d.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVfQwD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVGgwD-l-d.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVGgwD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVmgsD-l-d.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVmgsD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVMwwD-l-d.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVMwwD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVqAsD-l-d.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVqAsD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVRAwD-l-d.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVRAwD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVxAsD-l-d.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhatdisplay\v19\8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVxAsD-l-d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwZrHQdQ.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhattext\v14\RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwZrHQdQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML193ZrHQdQ.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhattext\v14\RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML193ZrHQdQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3ZrHQdQ.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhattext\v14\RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3ZrHQdQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwZrHQdQ.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhattext\v14\RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwZrHQdQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwZrHQdQ.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhattext\v14\RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwZrHQdQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXgcq1E.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhattext\v14\RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXgcq1E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXgcq1E.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhattext\v14\RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXgcq1E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXgcq1E.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhattext\v14\RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXgcq1E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzWfLgcq1E.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhattext\v14\RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzWfLgcq1E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzYPLgcq1E.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\redhattext\v14\RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzYPLgcq1E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://res.cloudinary.com/undangin-aja/video/upload/v1646017941/X2Download.com_-_Marry_Your_Daughter_-_Brian_McKnight_animation_128_kbps_c2fwg9.mp3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\undangin-aja\video\upload\v1646017941\X2Download.com_-_Marry_Your_Daughter_-_Brian_McKnight_animation_128_kbps_c2fwg9.mp3
+Content Type: audio/mpeg
+
+Uri: https://undanginaja.my.id/adi-ayu/
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\adi-ayu\index-1.htm
+Content Type: text/html
+
+Uri: https://undanginaja.my.id/adi-ayu/?to=Atika
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\adi-ayu\index.htm
+Content Type: text/html
+
+Uri: https://undanginaja.my.id/adi-ayu/feed/
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\adi-ayu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://undanginaja.my.id/comments/feed/
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://undanginaja.my.id/feed/
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.23.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.23.4
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.23.4
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.23.4
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.23.4
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.30.0
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.23.4
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.23.4
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.23.4
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/theplus_elementor_addon/assets/css/extra/iconsmind.min.css?ver=5.1.6
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\theplus_elementor_addon\assets\css\extra\iconsmind.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/theplus_elementor_addon/assets/css/main/pre-loader/plus-pre-loader.min.css?ver=5.1.6
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\theplus_elementor_addon\assets\css\main\pre-loader\plus-pre-loader.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/theplus_elementor_addon/assets/js/main/pre-loader/plus-pre-loader-extra-transition.min.js?ver=5.1.6
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\theplus_elementor_addon\assets\js\main\pre-loader\plus-pre-loader-extra-transition.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/theplus_elementor_addon/assets/js/main/pre-loader/plus-pre-loader.min.js?ver=5.1.6
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\theplus_elementor_addon\assets\js\main\pre-loader\plus-pre-loader.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/addons/comment-kit/css/wdp_style.css?ver=2.7.6
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\addons\comment-kit\css\wdp_style.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/autosize.min.js?ver=1.14
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\autosize.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/jquery.jPages.min.js?ver=0.7
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\jquery.jPages.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/jquery.placeholder.min.js?ver=2.0.7
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\jquery.placeholder.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/jquery.textareaCounter.js?ver=2.0
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\jquery.textareaCounter.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/addons/comment-kit/js/wdp_script.js?ver=2.7.6
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\addons\comment-kit\js\wdp_script.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/assets/css/exad-styles.min.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\assets\css\exad-styles.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/assets/css/wdp-centered-timeline.min.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\assets\css\wdp-centered-timeline.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/assets/css/wdp-fontello.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\assets\css\wdp-fontello.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/assets/css/wdp-horizontal-styles.min.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\assets\css\wdp-horizontal-styles.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/assets/css/wdp.css?ver=2.9.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\assets\css\wdp.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/assets/js/exad-scripts.min.js?ver=2.9.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\assets\js\exad-scripts.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/assets/js/qr-code.js
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\assets\js\qr-code.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/assets/js/wdp-horizontal.js
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\assets\js\wdp-horizontal.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/assets/js/wdp-swiper.min.js
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\assets\js\wdp-swiper.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/plugins/weddingpress/assets/js/wdp.min.js?ver=2.9.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\plugins\weddingpress\assets\js\wdp.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/themes/hello-elementor/theme.min.css?ver=2.6.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2021/09/cropped-Icon-Square-180x180.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2021\09\cropped-Icon-Square-180x180.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2021/09/cropped-Icon-Square-192x192.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2021\09\cropped-Icon-Square-192x192.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2021/09/cropped-Icon-Square-32x32.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2021\09\cropped-Icon-Square-32x32.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2021/09/cropped-Icon-Square.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2021\09\cropped-Icon-Square.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/01/Logo_BRI-1024x241.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\01\Logo_BRI-1024x241.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/01/Logo_BRI-1536x362.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\01\Logo_BRI-1536x362.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/01/Logo_BRI-2048x483.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\01\Logo_BRI-2048x483.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/01/Logo_BRI-300x71.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\01\Logo_BRI-300x71.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/01/Logo_BRI-768x181.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\01\Logo_BRI-768x181.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/02/daun-1-300x206-1-1-e1651305830343.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\02\daun-1-300x206-1-1-e1651305830343.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/02/Logo-UA-150x150.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\02\Logo-UA-150x150.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/02/Logo-UA-300x300.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\02\Logo-UA-300x300.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/02/Logo-UA-768x768.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\02\Logo-UA-768x768.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/02/Logo-UA.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\02\Logo-UA.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/03/logo-2-150x150.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\03\logo-2-150x150.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/03/logo-2-300x300.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\03\logo-2-300x300.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/03/logo-2.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\03\logo-2.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/04/Untitled-design-5-150x150.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\04\Untitled-design-5-150x150.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/04/Untitled-design-5-300x300.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\04\Untitled-design-5-300x300.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/04/Untitled-design-5.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\04\Untitled-design-5.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/10/mask-1-1-150x150.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\10\mask-1-1-150x150.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/10/mask-1-1-300x300.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\10\mask-1-1-300x300.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/10/mask-1-1.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\10\mask-1-1.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/10/social-distancing-1-1.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\10\social-distancing-1-1.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/10/thermometer-1-150x150.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\10\thermometer-1-150x150.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/10/thermometer-1-300x300.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\10\thermometer-1-300x300.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/10/thermometer-1.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\10\thermometer-1.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/10/wash-your-hands-1-150x150.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\10\wash-your-hands-1-150x150.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/10/wash-your-hands-1-300x300.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\10\wash-your-hands-1-300x300.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2022/10/wash-your-hands-1.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2022\10\wash-your-hands-1.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/03/Load.png
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\03\Load.png
+Content Type: image/png
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/AP_L8727.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\AP_L8727.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/AP_L8739-200x300.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\AP_L8739-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/AP_L8739-683x1024.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\AP_L8739-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/AP_L8739-768x1152.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\AP_L8739-768x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/AP_L8739.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\AP_L8739.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/AP_L8758.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\AP_L8758.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/AP_L8794.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\AP_L8794.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/COVER.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\COVER.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/GIFT-300x169.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\GIFT-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/GIFT.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\GIFT.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/LAKI-169x300.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\LAKI-169x300.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/LAKI.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\LAKI.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/WANITA-169x300.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\WANITA-169x300.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/2023/07/WANITA.jpg
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\2023\07\WANITA.jpg
+Content Type: image/jpeg
+
+Uri: https://undanginaja.my.id/wp-content/uploads/elementor/css/global.css?ver=1725211135
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/uploads/elementor/css/post-12766.css?ver=1726562270
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\elementor\css\post-12766.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/uploads/elementor/css/post-12789.css?ver=1726562271
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\elementor\css\post-12789.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/uploads/elementor/css/post-12792.css?ver=1726562270
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\elementor\css\post-12792.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/uploads/elementor/css/post-7.css?ver=1725211132
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/uploads/theplus-addons/theplus-post-12766.min.css?ver=1726562270
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\theplus-addons\theplus-post-12766.min.css
+Content Type: text/css
+
+Uri: https://undanginaja.my.id/wp-content/uploads/theplus-addons/theplus-post-12766.min.js?ver=1726562270
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-content\uploads\theplus-addons\theplus-post-12766.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-includes\js\jquery\jquery.ui.touch-punch.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-includes\js\jquery\ui\draggable.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-includes\js\jquery\ui\slider.min.js
+Content Type: text/javascript
+
+Uri: https://undanginaja.my.id/wp-json/
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://undanginaja.my.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fundanginaja.my.id%2Fadi-ayu%2F
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://undanginaja.my.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fundanginaja.my.id%2Fadi-ayu%2F&format=xml
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://undanginaja.my.id/wp-json/wp/v2/pages/12766
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\wp-json\wp\v2\pages\12766
+Content Type: application/json
+
+Uri: https://undanginaja.my.id/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\undanginaja.my.id\xmlrpc.php
+Content Type: text/xml
+

@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Allerta';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/allerta/v18/TwMO-IAHRlkbx940YnYXTQ.ttf) format('truetype');
+}
